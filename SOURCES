@@ -1,0 +1,4 @@
+shapefiles: Data labelled "osm_*" is exported from the openstreetmap project, licensed under the OpenDatabaseLicense (ODbL). Thanks!
+	    Data labeleld "cs_*" or "c" in source attribute is created by me, D-ECHO, based on Openstreetmap data.
+SRTM-3: data from viewfinderpanoramas.org, thanks!
+airports: pulled from gateway.x-plane.com (Thanks!), partly adjusted or newly created. Partly converted using dlaser's fgtools, thanks!

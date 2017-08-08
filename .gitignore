@@ -1,0 +1,10 @@
+.directory
+work/
+output/
+data/shapefiles/osm.*
+data/shapefiles/osm2.*
+data/shapefiles/osm3.*
+data/shapefiles/osm4.*
+data/shapefiles/osm5.*
+data/shapefiles/osm_lines*
+
